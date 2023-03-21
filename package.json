@@ -41,7 +41,6 @@
     "version": "auto-changelog -p && git add ."
   },
   "dependencies": {
-    "@gorhom/portal": "^1.0.3",
     "lodash.isequal": "^4.5.0",
     "nanoid": "^3.1.20"
   },
@@ -79,7 +78,8 @@
     "react": "*",
     "react-native": "*",
     "react-native-gesture-handler": ">=1.8.0",
-    "react-native-reanimated": ">=2.1.0"
+    "react-native-reanimated": ">=2.1.0",
+    "@gorhom/portal": "^1.0.3",
   },
   "@react-native-community/bob": {
     "source": "src",
